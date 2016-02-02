@@ -1,0 +1,6 @@
+*.*
+DerivedData
+!*.h 
+!*.hpp
+!*.cpp
+!.gitignore
